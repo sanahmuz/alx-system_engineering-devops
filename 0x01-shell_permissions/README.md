@@ -1,1 +1,1 @@
-sets mode of hello file to rwxr-x-wx
+set mode of hello file same as olleh mode
