@@ -1,1 +1,1 @@
-Delete my_first_directory in tmp dir
+Change working dir to previous one
