@@ -1,1 +1,1 @@
-Adds execure permission for all subdirs of current dir for og + u do not change regular files
+Create my_dir directory with permissions 751 in working dir
