@@ -1,1 +1,1 @@
-Changes owner and group owner of -hello to vincet and staff respec -hello is in working idr and _hello is symbo lnk
+Change owner of hello file to betty only if owned by guillaume n hello file is in working
