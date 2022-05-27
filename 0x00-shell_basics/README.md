@@ -1,1 +1,1 @@
-Copy new or newer versions of HTML files from current dir to parent of working dir
+Move files beginning with uppercase letter to dir /tmp/u
