@@ -1,1 +1,1 @@
-Changes group owner to school for hello file in working dir
+Change owner to Vincet and group owner to staff for all files dirs in working dir
