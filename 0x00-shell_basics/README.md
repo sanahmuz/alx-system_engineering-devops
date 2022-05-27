@@ -1,1 +1,1 @@
-Create my_first_directory dir in tmp dir
+Move betty file from tmp to my_first_directory in tmp
