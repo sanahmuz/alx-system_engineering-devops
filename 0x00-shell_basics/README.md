@@ -1,1 +1,1 @@
-Delete all files in current working dir ending with [~]
+Create dirs welcome/ welcome/to/ welcome/to/school in current dir
