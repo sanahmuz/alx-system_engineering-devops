@@ -1,1 +1,1 @@
-delete betty in my_first_directory
+Delete my_first_directory in tmp dir
