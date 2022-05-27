@@ -1,1 +1,1 @@
-List all files and dirs of current directory separated by commas
+create school.mgc file to use with file to detect School data files with string SCHOOL
