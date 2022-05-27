@@ -1,1 +1,1 @@
-Create dirs welcome/ welcome/to/ welcome/to/school in current dir
+List all files and dirs of current directory separated by commas
