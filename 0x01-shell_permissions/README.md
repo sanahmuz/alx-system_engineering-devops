@@ -1,1 +1,1 @@
-No permission to owner and group but all permission to others for hello file
+sets mode of hello file to rwxr-x-wx
