@@ -20,3 +20,4 @@ Display all lines of file /etc/ssh/sshd_config starting with letter,include capi
 Replace all chars A and c from input Z and e respec
 Remove all letters c and C from input
 Reverse input
+Display all users and their home dirs sorted by users based on /etc/passwd file
