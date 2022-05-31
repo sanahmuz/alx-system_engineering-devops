@@ -22,3 +22,4 @@ Remove all letters c and C from input
 Reverse input
 Display all users and their home dirs sorted by users based on /etc/passwd file
 Find all empty fils and dirs in current dir and subdir, only names are shown,hidden fils shown, one file name per line
+List all fils with .gif exte in current dir and subdirs, hidden files shown only files shown, names of fils shown not exte, fils sorted by bytes, but file aaa is b4 bbb, file .b is b4 a, file Rona is after jay
