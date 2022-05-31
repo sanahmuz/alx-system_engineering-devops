@@ -10,3 +10,4 @@ Write into file ls_cwd_content n result is ls -la. File is overwritten if exists
 Duplicate last line of iacta file in working dir
 delete all regular file with .js exte that are in current dir and subfold
 count number of directories and subdirs in current dir, hidden dirs are counted
+Display 10 newest files in current dir, one file per line n sorted from newest to oldest
