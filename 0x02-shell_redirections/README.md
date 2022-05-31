@@ -8,3 +8,4 @@ display 3rd line of iacta file in working dir
 Create file named \*\'Best School\'\*$\?\*\*\*\*\*:) containing Best School text ending by new line
 Write into file ls_cwd_content n result is ls -la. File is overwritten if exists
 Duplicate last line of iacta file in working dir
+delete all regular file with .js exte that are in current dir and subfold
