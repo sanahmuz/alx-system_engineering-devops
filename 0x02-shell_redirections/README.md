@@ -19,3 +19,4 @@ Display all lines in file /etc/passwd that do not have pattern bin
 Display all lines of file /etc/ssh/sshd_config starting with letter,include capital letters
 Replace all chars A and c from input Z and e respec
 Remove all letters c and C from input
+Reverse input
