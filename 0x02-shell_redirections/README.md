@@ -14,3 +14,4 @@ Display 10 newest files in current dir, one file per line n sorted from newest t
 Take a list of words as input and print words that appear exactly once, One line one word for stdin n out, sort words
 Display lines containing pattern root from file /etc/passwd
 Display number of lines containing pattern bin in file /etc/passwd
+Display lines containing pattern root and 3 lines after in file /etc/passwd
