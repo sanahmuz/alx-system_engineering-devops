@@ -4,3 +4,4 @@ Add /action to PATH /action should be last dir shell looks when looking for a pr
 Count no. of dirs in PATH
 List local variables and environmental varias and functs
 Create BEST global variable
+Print result of 128 plus value in TRUEKNOWLEDGE and a new line
