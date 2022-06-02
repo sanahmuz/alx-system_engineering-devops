@@ -13,3 +13,4 @@ Print number with 2 dp number stored in NUM
 Convert a no. from base 10 to 16 base 10 is in DECIMAL
 Encode and decode text using rot13 encryption. assume ascii
 Print every other line from input starting with first line
+add two no.s stored in WATER AND STIR and print result WATER IN BASE WATER, STIR IN BASE STIR, RESULT IN BASE BESTCHOL
