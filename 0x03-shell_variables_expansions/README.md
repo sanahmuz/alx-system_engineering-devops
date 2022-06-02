@@ -11,3 +11,4 @@ Convert number from base 2 to base 10, 2 is in BINARY
 Print Combines of 2 letts except oo, lower case a-z, start with aa
 Print number with 2 dp number stored in NUM
 Convert a no. from base 10 to 16 base 10 is in DECIMAL
+Encode and decode text using rot13 encryption. assume ascii
