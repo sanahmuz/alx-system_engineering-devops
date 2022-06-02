@@ -8,3 +8,4 @@ Print result of 128 plus value in TRUEKNOWLEDGE and a new line
 Print result of POWERdividedbyDIVIDE
 Display result of BREATH to power LOVE
 Convert number from base 2 to base 10, 2 is in BINARY
+Print Combines of 2 letts except oo, lower case a-z, start with aa
