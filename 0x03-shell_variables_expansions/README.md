@@ -5,3 +5,4 @@ Count no. of dirs in PATH
 List local variables and environmental varias and functs
 Create BEST global variable
 Print result of 128 plus value in TRUEKNOWLEDGE and a new line
+Print result of POWERdividedbyDIVIDE
